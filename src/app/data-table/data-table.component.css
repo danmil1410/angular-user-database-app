@@ -1,0 +1,36 @@
+table {
+  margin: 50px 7.5%;
+  width: 85%;
+}
+
+th.mat-header-cell,
+td.mat-cell {
+  border: none;
+}
+
+tr.mat-row {
+  cursor: pointer;
+}
+
+tr.mat-row:hover {
+  background: rgba(220, 220, 220, 0.75);
+}
+
+.options {
+  margin: 20px 7.5%;
+}
+
+.options button {
+  margin-right: 20px;
+}
+
+.example-form {
+  margin-top: 50px;
+  min-width: 150px;
+  max-width: 500px;
+  width: 100%;
+}
+
+.example-full-width {
+  width: 100%;
+}
