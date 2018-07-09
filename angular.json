@@ -21,7 +21,7 @@
             "assets": ["src/favicon.ico", "src/assets"],
             "styles": [
               {
-                "input": "./src/my-style.sass"
+                "input": "src/my-style.scss"
               },
               "src/styles.css"
             ],
